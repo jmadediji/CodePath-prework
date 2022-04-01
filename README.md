@@ -45,7 +45,7 @@ Made game button display text that the spells a different color in that color's 
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![x](http://g.recordit.co/Duy5oB6AXu.gif)
-![x](gif2-link-here)
+![x](gif2-link-here )
 ![](gif3-link-here)
 ![](gif4-link-here)
 
