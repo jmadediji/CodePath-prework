@@ -44,10 +44,10 @@ Made game button display text that the spells a different color in that color's 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](http://g.recordit.co/Duy5oB6AXu.gif)
-![x](gif2-link-here )
-![](gif3-link-here)
-![](gif4-link-here)
+![x](http://g.recordit.co/Duy5oB6AXu.gif) This gif shows the game's page.
+![x](http://g.recordit.co/oAICk9JVf4.gif ) This gif shows what happens when the player inputs an incorrect pattern.
+![x](http://g.recordit.co/Wm4yiRQmVw.gif) This gif shows what happens when the player suddenly clicks stop in the middle of the game.
+![x](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
