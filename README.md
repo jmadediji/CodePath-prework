@@ -47,7 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![x](http://g.recordit.co/Duy5oB6AXu.gif) This gif shows the game's page.
 ![x](http://g.recordit.co/oAICk9JVf4.gif ) This gif shows what happens when the player inputs an incorrect pattern.
 ![x](http://g.recordit.co/Wm4yiRQmVw.gif) This gif shows what happens when the player suddenly clicks stop in the middle of the game.
-![x](gif4-link-here)
+![x](http://g.recordit.co/Iaai4G6xvx.gif) This gif shows what happens if the palyer wins the game.
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -60,16 +60,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-[After completing my submission, I am curious to know how big technology and multimedia companies bring all elements of their website together. In this project, CSS, Javascript, and HTML were all incorporated to bring the game alive, and HTML housed the other two. As a result, I am curious as to how the languages, software, and other tools used by different developers(Backend, Frontend, etc) all come together to make one big project.]
+[After completing my submission, I am curious to know how big technology and multimedia companies bring all elements of their website together. In this project, CSS, Javascript, and HTML were all incorporated to bring the game to life, and HTML housed the other two. As a result, I am curious how the languages, software, and other tools used by different developers(Backend, Frontend, etc.) all come together to create one big project.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-[If I had a few more hours on the project I will spend them adding additional features to the game to make it more interactive with the player. Specifically, I would have added features like a progress bar, a countdown timer, and sound effects. 
-A progress bar would be great in the game because it enables the player to know what level they are on and how many levels they have left to win the game. I would have incorporated this element by adding the levels there are in my game (1-10)  and each time a player successfully completes a round, a line is drawn that connects the first number to the next. If the player loses at any round, the line that connects the numbers get erased and the "game over" alert pops up.
-Similarly, I would add a timer that indicates how much time a player gets to complete the game. I believe this feature would add a little bit of difficulty and fun to the game. I would have incorporated this feature by setting a time (for example, 2 minutes)that counts down as soon as the player clicks start. If the player runs out of time, the game is lost. Therefore, the game would be coded in a way that the player loses if they play the incorrect pattern or run out of time.
-Another interesting feature that would be good in the game is sound effects. I would have made sound effects for when the player loses the game, wins the game, and moves to the next level.
- 
-]
+[If I had a few more hours to work on the project, I would spend them adding additional features to the game to make it more interactive with the player. Specifically, I would have added features like a progress bar, a countdown timer, and sound effects. 
+Adding a progress bar to the game would be a great feature because it enables players to track their progress. I would have incorporated this element by adding the levels there are in the game (1-10 in mine), and each time a player completes a round, a line connects the first number to the next. However, if the player loses at any round, the line that connects the numbers gets erased, and the "game over" alert pops up.
+Similarly, I would add a timer that indicates how much time a player gets to complete the game. I believe this feature would add a little bit of difficulty and fun to the game. I would have incorporated this feature by setting a time (for example, 2 minutes)that counts down as soon as the player clicks start. If the player runs out of time, the game is lost. 
+Another interesting feature that would be good in the game is sound effects. I would have made sound effects for when the player loses the game, wins the game, and moves to the next level.]
 
 
 
