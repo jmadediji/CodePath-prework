@@ -6,9 +6,7 @@ Submitted by: **Jesutofunmi Adediji**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...
-
-Link to code: https://glitch.com/edit/#!/opalescent-bloom-bison
+Link to project: (Link to code: https://glitch.com/edit/#!/opalescent-bloom-bison
 Link to live site: https://opalescent-bloom-bison.glitch.me)
 
 ## Required Functionality
