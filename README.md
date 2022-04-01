@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app!
 
-Made game button display text that the spells a different color in that color's font (for example, red written in red font on a yellow background) to increase game difficulty.
+Game buttons display text that the spells a different color in that color's font (for example, red written in red font on a yellow background) to increase game difficulty.
 
 ## Video Walkthrough (GIF)
 
