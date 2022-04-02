@@ -73,7 +73,7 @@ Another interesting feature that would be good in the game is sound effects. I w
 
 [My 5-minute Interview Recording](https://www.loom.com/share/2b36a8dd65df49f7a675860110c051d5)
 
-
+Please, enable closed captions or refer to transcript in my interview video for better understanding.
 ## License
 
     Copyright [Jesutofunmi Adediji]
